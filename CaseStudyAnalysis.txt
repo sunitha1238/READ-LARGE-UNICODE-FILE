@@ -1,0 +1,5 @@
+BufferReader is the Fastest File Read Approach compare to other Approaches 
+Apache commons.io.LineIterator also Slightly taking same time as BufferReader.
+Remaining Options are taking more time and space for Reading the Large File.
+
+All the Aproaches are checked with 3.5GB Unicode text file. 
